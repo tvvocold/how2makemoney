@@ -10,6 +10,7 @@
 #### 寻求赞助
 - [GitHub Sponser](https://github.com/sponsors) - 帮助开源项目维护者获得他人赞助
 - [Open Collective](https://opencollective.com/) - 帮助开源社区获得赞助，并管理财务
+- [顿顿饭](https://dun.mianbaoduo.com) - 优雅又有趣的以食物化方式接受粉丝的赞助，并可支持链接挂载和提问箱
 - [爱发电](https://afdian.net/) - 连接创作者与粉丝的按月赞助平台
 
 #### 销售作品/创作
